@@ -2,7 +2,7 @@ Here’s a ready-to-use **`README.md`** file for your **Prank Calculator** proje
 
 ---
 
-````markdown
+````
 # 🎉 Prank Calculator 🤡
 
 ![Preview](assets/img1.png)  
