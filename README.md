@@ -1,4 +1,4 @@
-Here’s a ready-to-use **`README.md`** file for your **Prank Calculator** project:
+
 
 ---
 
@@ -8,7 +8,7 @@ Here’s a ready-to-use **`README.md`** file for your **Prank Calculator** proje
 ![Preview](assets/img1.png)  
 *A fun little prank calculator that looks professional… until you actually try to use it!*  
 
----
+----
 
 ## ✨ Features
 - ✅ Looks like a real calculator 🧮  
@@ -17,16 +17,16 @@ Here’s a ready-to-use **`README.md`** file for your **Prank Calculator** proje
 - 🎵 Plays a prank song when certain inputs are entered  
 - ❌ Disables the `=` button when you enter 4+ digits  
 
----
+----
 
 ## 📸 Demo Screenshot
 ![Screenshot](assets/Screenshot 2025-08-21 105435.png)
 
----
+----
 
 ## 🚀 How to Use
 1. Clone or download this repo  
-   ```bash
+  ----
    git clone https://github.com/sumit3162/Prank-Calculator.git
 ````
 
